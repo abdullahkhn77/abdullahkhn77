@@ -1,4 +1,4 @@
-<h3>Applied ML / MLOps</h3>
+<h3>Applied AI and ML with MLOps</h3>
 
 <p>
 I work on data pipelines, model reliability, and systems that fail predictably instead of silently.
